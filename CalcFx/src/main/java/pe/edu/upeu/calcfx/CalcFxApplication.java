@@ -20,7 +20,7 @@ public class CalcFxApplication extends Application {
 		ConfigurableApplicationContext configurableApplicationContext;
 		Parent parent;
 	public static void main(String[] args) {
-		System.out.println("Hola estas funcionando");
+		System.out.println("Holas jsjsjsjs ");
 		launch(args);
 		//SpringApplication.run(CalcFxApplication.class, args);
 	}
